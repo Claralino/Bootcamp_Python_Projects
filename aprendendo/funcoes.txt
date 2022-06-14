@@ -1,0 +1,36 @@
+
+FUNCTIONS
+    funções em py são codigos que fazem coisas pre determinadas 
+    sempre tem ()
+
+    para criar funções:
+        def my_function():                #def é a palavra chave para criar uma função 
+            print("hello")                #a função printa hello 
+            faça isso 
+            
+    é preciso chamar a função para funcionar:
+        my_function()   #chamou a função para funcionar
+
+FUNÇÕES COM INPUT
+    os parentes da função podem receber input:
+        def my_function(input): 
+            faça isso com input
+            depois isso com input
+    e quando chamar a função, bota nos parentes o input:
+        my_function(oi)
+    input = oi
+    
+    input - parametro (quando a função é criada)
+    oi - argumento (passado quando a função é chamada)
+
+    a função pode pedir mais de 1 parametro:
+        def my_function(input1, input2, input3)
+    na hora de chamar a função, bota os argumentos em ordem:
+        my_function(oi1, oi2, oi3)
+    input1 = oi1 
+    input2 = oi2
+
+
+    é possivel associar diretamente os parametros com os argumentos:
+        my_function(input = oi1, input2 = oi2, input3 = oi3)
+    ai a posição que voce bota os argumentos nao importa

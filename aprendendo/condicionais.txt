@@ -1,0 +1,13 @@
+
+CONDICIONAIS
+    se faz uma coisa ou se faz outras
+
+    if condição:
+        faça isso
+    elif condição:  -> serve pra quando tem mais de 2 condições
+        faça isso
+    else:
+        faça isso
+    
+    se tiver varios if, é pq mais de uma condição é verdadeira e poderá ser executada
+

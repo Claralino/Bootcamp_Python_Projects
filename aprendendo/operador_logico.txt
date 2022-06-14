@@ -1,0 +1,10 @@
+
+AND 
+    quando os dois precisam ser verdade para ser verdade 
+    operador: 
+
+OR
+    quando apenas um precisa ser verdade para ser verdade 
+
+NOT
+    é sempre o contrário 

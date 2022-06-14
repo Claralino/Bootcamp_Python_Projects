@@ -1,0 +1,7 @@
+
+RANDOMISATION
+    para criar coisas aleatorias 
+    python ja tem varios random modules 
+    tem que fazer o import random no inicio do codigo, e botar random.module usado 
+    
+
