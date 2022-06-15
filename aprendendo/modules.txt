@@ -1,6 +1,0 @@
-MODULES 
-    cada module pode fazer alguma coisa específica e depois se juntas com os outros 
-    só criar um novo file e botar o que quiser 
-    para usar o module, é só importar usando o nome desse file:
-        import my_module
-        print(my_module.pi) -> vai ser printado esse resultado de outro module
